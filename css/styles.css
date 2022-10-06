@@ -1,4 +1,4 @@
-body{
+#woman{
   background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../images/tree.jpg);
   background-repeat: no-repeat;
   width: 100%;
@@ -19,7 +19,7 @@ body{
   margin-left: 10px;
 }
 .man1{
-  margin-left: 230px;
+  margin-left: 150px;
   margin-top: -45px;
 }
 .we{
@@ -32,6 +32,24 @@ body{
   font-size: 20px;
   border-radius: 5px;
 }
-.can{
-  padding-left: 10px;
+.u{
+  margin-left: 350px;
+}
+.ul{
+  margin-top: -300px;
+  color: white;
+  font-size: 70px;
+  margin-left: 290px;
+  
+}
+.ui{
+  margin-top: 10px;
+  color: white;
+  font-size: 80px;
+}
+.l{
+  margin-top: 150px;
+  color: red;
+  margin-left: 230px;
+  font-size: 20px;
 }
