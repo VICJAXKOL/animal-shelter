@@ -32,6 +32,9 @@
   font-size: 20px;
   border-radius: 5px;
 }
+.we:hover{
+  background-color: salmon;
+}
 .u{
   margin-left: 350px;
 }
@@ -251,11 +254,14 @@
   padding-top: 10px;
 }
 .uu{
-  width: 80px;
-  height: 45px;
+  width: 100px;
+  height: 50px;
   background-color: red;
   border: none;
-  margin-left: 500px;
-  margin-top: 30px;
-  border-radius: 5px;
+  border-radius: 7px;
+  margin-left: 550px;
+  margin-top: 20px;
+}
+.uu:hover{
+  background-color: salmon;
 }
