@@ -265,3 +265,82 @@
 .uu:hover{
   background-color: salmon;
 }
+.bb{
+  display: flex;
+  background-color: black;
+  margin-top: 130px;
+  height: 500px;
+}
+.zz{
+  color: white;
+  margin-left: 60px;
+  margin-top: 50px;
+  border-top: solid;
+  border-bottom: solid;
+  border-width: 1px;
+  height: 230px;
+  width: 200px;
+}
+.xx{
+  color: white;
+  margin-left: 120px;
+  margin-top: 50px;
+  border-top: solid;
+  border-bottom: solid;
+  border-width: 1px;
+  height: 230px;
+  width: 200px;
+}
+.hh{
+  color: white;
+  margin-left: 120px;
+  margin-top: 50px;
+  border-top: solid;
+  border-bottom: solid;
+  border-width: 1px;
+  height: 230px;
+  width: 200px;
+}
+.ss{
+  margin-top: 130px;
+  text-align: center;
+}
+.vv{
+  color: white;
+  margin-left: 100px;
+  width: 200px;
+  border-left: solid;
+  border-width: 1px;
+}
+.fa-arrow-right{
+  color: black;
+  background-color: red;
+  width: 50px;
+  height: 30px;
+  padding-left: 15px;
+  padding-top: 5px;
+}
+.ii{
+  margin-left: 10px;
+  margin-top: 100px;
+  height: 40px;
+}
+.er{
+  margin-top: 30px;
+  margin-left: -140px;
+}
+.ee{
+  margin-top: 60px;
+  margin-left: 18px;
+}
+.ll{
+  margin-left: 18px;
+}
+.in{
+  color: white;
+  margin-top: 170px;
+  margin-left: -230px;
+}
+#image15{
+  width: 30px;
+}
