@@ -269,7 +269,7 @@
   display: flex;
   background-color: black;
   margin-top: 130px;
-  height: 500px;
+  height: 460px;
 }
 .zz{
   color: white;
@@ -307,7 +307,7 @@
 }
 .vv{
   color: white;
-  margin-left: 100px;
+  margin-left: 70px;
   width: 200px;
   border-left: solid;
   border-width: 1px;
@@ -339,8 +339,67 @@
 .in{
   color: white;
   margin-top: 170px;
-  margin-left: -230px;
+  margin-left: -237px;
+  border-top: solid;
+  border-bottom: solid;
+  border-width: 1px;
+  width: 290px;
+  padding-top: 10px;
+  padding-left: 10px;
+  height: 120px;
 }
 #image15{
   width: 30px;
 }
+.fan{
+  color: white;
+  margin-top: 370px;
+  font-size: 12px;
+  margin-left: -1120px;
+}
+.fan1{
+  color: white;
+  font-size: 12px;
+  margin-left: -1120px;
+}
+.lk{
+  background-color: white;
+  height: 85px;
+  display: flex;
+}
+.hj{
+  font-size: 17px;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.br{
+  color: white;
+  background-color: red;
+  border: none;
+  width: 130px;
+  height: 50px;
+  margin-top: 20px;
+  margin-left: 130px;
+}
+.br:hover{
+  background-color: salmon;
+}
+#image16{
+  width: 30px;
+  margin-top: -180px;
+  margin-left: -240px;
+}
+#image17{
+  width: 30px;
+  margin-top: -180px;
+  margin-left: 10px;
+}
+#image18{
+  width: 35px;
+  margin-top: -180px;
+}
+#image19{
+  width: 50px;
+  margin-top: -180px;
+}
+
