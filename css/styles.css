@@ -325,9 +325,8 @@
   margin-top: 100px;
   height: 40px;
 }
-.er{
+.ik{
   margin-top: 30px;
-  margin-left: -140px;
 }
 .ee{
   margin-top: 60px;
@@ -366,6 +365,7 @@
   background-color: white;
   height: 85px;
   display: flex;
+  position: absolute;
 }
 .hj{
   font-size: 17px;
@@ -402,4 +402,7 @@
   width: 50px;
   margin-top: -180px;
 }
-
+.ev{
+  margin-top: 40px;
+  margin-left: 25px;
+}
