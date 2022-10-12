@@ -312,3 +312,53 @@
 .bs:hover{
   color: salmon;
 }
+.aa{
+  display: flex;
+}
+.ab{
+  border-top: solid;
+  border-width: 1px;
+  height: 500px;
+  width: 440px;
+  margin-top: 50px;
+  border-left: solid;
+  border-width: 1px;
+  border-bottom: solid;
+  border-width: 1px;
+  margin-left: 20px;
+}
+.ac{
+  width: 400px;
+  margin-left: 15px;
+  border-bottom: solid;
+  border-width: 1px;
+  height: 80px;
+}
+.ad{
+  margin-top: 90px;
+  margin-left: 70px;
+}
+.ae{
+  margin-top: 90px;
+  font-size: 16px;
+  margin-left: 20px;
+  border-width: 1px;
+}
+.af{
+  color: white;
+  background-color: red;
+  border: none;
+  border-radius: 5px;
+  width: 150px;
+  height: 50px;
+  margin-left: 120px;
+  margin-top: 30px;
+}
+.af:hover{
+  color: salmon;
+}
+#image6{
+  width: 860px;
+  height: 500px;
+  margin-top: 50px;
+}
